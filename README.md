@@ -4,14 +4,14 @@
 Lost CMD? Blocked by admin? **MiniCMD has you covered!**  
 
 ## 🚀 Features
-✅ **Ultra-lightweight** – Just **85 KB** (EXE) or **16 bytes** (Lite version).  
+✅ **Ultra-lightweight** – Just **16 bytes** (Lite version).  
 ✅ **Standalone** – No dependencies, runs anywhere.  
 ✅ **Portable** – One file, no installation needed.  
 ✅ **Faster than CMD** – Because **less bloat = more speed!**  
 ✅ **Still works if CMD is missing!**  
 
 ## 📂 Versions
-### **MiniCMD.EXE (Full Version)**
+### **MiniCMD.EXE (Coming Soon!)**
 - **Size:** 85 KB  
 - **Standalone executable**  
 - **No dependencies**  
@@ -27,8 +27,8 @@ Lost CMD? Blocked by admin? **MiniCMD has you covered!**
 ---
 
 ## 🔥 How to Use
-### **Run MiniCMD.EXE**
-Simply **double-click `MiniCMD.exe`** – that's it! 🚀  
+### **Run MiniCMD-lite.bat**
+Simply **double-click `MiniCMD-lite.bat`** – that's it! 🚀  
 
 ### **Run MiniCMD Lite (.BAT)**
 1️⃣ **Download MiniCMD Lite** from the link above.  
@@ -37,7 +37,7 @@ Simply **double-click `MiniCMD.exe`** – that's it! 🚀
 ## 🎮 MiniCMD vs. CMD.EXE
 | Feature | CMD.EXE | MiniCMD |
 |---------|--------|---------|
-| File Size | 316 KB | **85 KB** |
+| File Size | 316 KB | **16 Bytes** |
 | Portability | ❌ Needs system files | ✅ One file, runs anywhere |
 | Works Without CMD | ❌ No | ✅ Yes! |
 | Admin Restrictions | ❌ Sometimes blocked | ✅ Works everywhere |
