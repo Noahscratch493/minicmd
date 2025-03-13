@@ -1,7 +1,3 @@
-Here's your updated version, now including **MiniCMD.EXE** with all the details! 🚀  
-
----
-
 # MiniCMD – Use CMD When You Lose It! 💻⚡  
 
 **MiniCMD** is a lightweight, portable alternative to `cmd.exe`.  
