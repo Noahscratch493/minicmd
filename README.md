@@ -12,13 +12,6 @@ Lost CMD? Blocked by admin? **MiniCMD has you covered!**
 
 ## 📂 Versions  
 
-### **🛠 MiniCMD.EXE (Now Available!)**  
-✔ **Size:** 76 KB  
-✔ **Standalone executable**  
-✔ **No dependencies**  
-✔ **Works even if `cmd.exe` is missing!**  
-✔ **More "app-like" with better handling**  
-
 ### **⚡ MiniCMD Lite (Batch Version)**  
 ✔ **Size:** 16 bytes (!)  
 ✔ **Minimalist batch script**  
@@ -28,16 +21,11 @@ Lost CMD? Blocked by admin? **MiniCMD has you covered!**
 
 ## 📥 Download MiniCMD Now!  
 
-🔗 [**Get mCMD.EXE**](mCMD.exe)
 🔗 [**Get MiniCMD Lite**](mcmd-lite.bat)
 
 ---
 
 ## 🔥 How to Use  
-
-### **Run MiniCMD.EXE**  
-1️⃣ Download `mCMD.exe` from the link above.  
-2️⃣ **Double-click to open** – No installation needed!  
 
 ### **Run MiniCMD Lite (.BAT)**  
 1️⃣ Download `mcmd-lite.bat`.  
