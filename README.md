@@ -37,7 +37,7 @@ Lost CMD? Blocked by admin? **MiniCMD has you covered!**
 
 | Feature | CMD.EXE | MiniCMD |
 |---------|--------|---------|
-| File Size | 316 KB | **76 KB** (EXE) / **16 Bytes** (Lite) |
+| File Size | 316 KB |**16 Bytes** (Lite) |
 | Portability | ❌ Needs system files | ✅ One file, runs anywhere |
 | Works Without CMD | ❌ No | ✅ Yes! |
 | Admin Restrictions | ❌ Sometimes blocked | ✅ Works everywhere |
